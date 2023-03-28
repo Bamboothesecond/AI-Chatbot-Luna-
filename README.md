@@ -11,3 +11,6 @@ The program creates a queue to communicate between the GUI and the background th
 
 ## Goal
 The goal of the program is to provide a conversational AI assistant that can understand and respond to natural language input from the user. The program uses the tkinter library to create a graphical user interface (GUI) that allows the user to input messages and view the conversation history. The chatbot model used in this program is "gpt-3.5-turbo", which is a variant of OpenAI's GPT-3 language model optimized for chatbot use cases. The program also includes typing animations to simulate a more natural conversation flow.
+
+## Description
+This is a traditional ChatGPT using GPT 3.5 Turbo. Feel free to customize.
